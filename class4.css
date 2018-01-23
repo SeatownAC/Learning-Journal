@@ -1,0 +1,12 @@
+/* General Styles */
+Body {
+    margin: 0;
+
+}
+
+#wrapper * {
+    padding: 20px;
+    font-size: 20px;
+    border 20 px solid rgba(0, 0, 0, 5);
+
+}

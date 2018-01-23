@@ -1,0 +1,1 @@
+Saturday was TOUGH! I never finished questions 4 and 5 of lab5. I didn't just want someone to give me the answer, I wanted to understand it myself. I spent some time over the weekend doing online tutorials on functions, so I'm gonna try my hand again at improving those last two questions. 
