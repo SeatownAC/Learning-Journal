@@ -1,0 +1,1 @@
+Last week was pretty challenging, I did not complete question 5 from lab 5, but I will revisit when I have time. The beginning portion of Salmon Cookies was a little challenging, but I ended up doing ok, just not the prettiest styled page.
