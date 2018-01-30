@@ -1,0 +1,1 @@
+SALMON COOKIES!!! Noooooo! Ugh! This was a toughie. I got the first part of the assignment done ok, with object literals but the constructor functions are killing me. I still don't have it worked out.
