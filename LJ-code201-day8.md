@@ -1,0 +1,1 @@
+Well, Salmon Cookies might be the death of me yet. Turning the code into constructor functions is the most difficult thing I've done yet in programming. It felt like we flew past the explanations and details of the concept and just dove right in. I'm taking comfort in knowing most of my classmates are feeling overwhelmed also, and it's not just me.
