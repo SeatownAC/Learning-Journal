@@ -1,0 +1,1 @@
+I'm happy we are taking a break from JS after I get my event working on my table page. Hopefully that will not be as difficult as constructor functions. Sheesh. I've been learning in leaps and bounds but I'm unsure of how much i'm retaining. Looking forward to focusing on HTML/CSS

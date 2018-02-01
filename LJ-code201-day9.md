@@ -1,0 +1,1 @@
+Ok, so things are much better. Constructor functions were painful, but it's up and running. I got my table working, with tons of help though. This was a painful experience.
