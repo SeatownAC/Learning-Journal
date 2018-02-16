@@ -1,0 +1,1 @@
+It is a load off my shoulders to be done with Salmon Cookies, it felt like a huge jump from what we've been doing to what we were expected to do. I'm happy it's over with, and i felt good with the final product, as painstaking as it was

@@ -1,0 +1,1 @@
+This week we worked on HTML and CSS, which was frustrating in a very different way than JS. I felt like I understood more, but every time I got something to work, everything else shifted or disappeared! Eek!
