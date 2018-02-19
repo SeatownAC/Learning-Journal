@@ -1,0 +1,1 @@
+I didn't do as well on the CSS/HTML excersizes as I hoped, CSS is so tricky, you get everything working and try to add one more thing and it just kills the whole page. However, it was nice to take a break from JS.

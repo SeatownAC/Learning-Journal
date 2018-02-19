@@ -1,0 +1,1 @@
+Chart JS took me a lot longer than i thought it would, several hours and help from a friend. It's def franken-code, but it worked so i was happy. The local storage seemed daunting for some reason, but it was only a few lines of code in the end, so that was a lot of stress for nothing. 
