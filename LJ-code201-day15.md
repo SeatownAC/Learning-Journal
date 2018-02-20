@@ -1,0 +1,1 @@
+Sadly, I only got a 75% on the 301 entrance exam, but I also have a good grade in the class and was able to turn in all canvas assignments by last night, so I'm dissapointed with the test score, but feeling ok overall. I'm feeling a bit nervous moving forward with the group projects, but I'm going in with an open mind.
