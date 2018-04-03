@@ -1,0 +1,1 @@
+JB has great energy, enjoying his flow of the class so far, with the exception that the first week had some confusing schedule changes. Brittany was a great 1st partner to have, the work was equitable and she was nice to work with. I hope all pair-programming is this good.
